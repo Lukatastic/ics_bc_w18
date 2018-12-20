@@ -1,7 +1,11 @@
 1) What are three interesting facts about you?
-
+1. My favorite number is 12 - a double digit number!
+2. I love playing with tongue twisters
+3. Mediterranean cuisine is hands-down my favorite.
 
 2) What's your favorite song and movie?
-
+Song: Toto - Africa
+Movie: Interstellar
 
 3) Why do you want to learn how to program?
+In the words of the great Kanye West, "we live in a society". But seriously, the world of 2018 has computing tools in every field and aspect of life. Personally, I wasn't sure what I wanted to do with life but I want to improve some aspect of the world, and CS leaves me flexible to really create something new with whatever problem I encounter with in the future. At least that's my idea of CS, maybe EECS classes here would show me otherwise. I'm ready to learn.
