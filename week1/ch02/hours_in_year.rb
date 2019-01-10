@@ -5,3 +5,5 @@
 
 
 ### Your Code Here ###
+
+print(24*365.25)

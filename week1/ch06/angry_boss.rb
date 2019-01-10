@@ -4,3 +4,6 @@
 
 
 ### Your Code Here ###
+
+puts 'WHADDAYA WANT YA LAZY BUM!?'
+puts 'WHADDAYA MEAN \"' + gets.chomp.upcase + '\"?!? YOU\'RE FIRED!!'

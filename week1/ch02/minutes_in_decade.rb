@@ -3,3 +3,5 @@
 
 
 ### Your Code Here ###
+
+print(60*24*365.25*10)
